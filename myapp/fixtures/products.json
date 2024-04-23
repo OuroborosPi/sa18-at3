@@ -1,0 +1,11 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Chicken Tenders (Gold)",
+            "price": "19.99",
+            "description": "As the name suggests, these are the best chicken tenders you will ever have."
+        }
+    }
+]
